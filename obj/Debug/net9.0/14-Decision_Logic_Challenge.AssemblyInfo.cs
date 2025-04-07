@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("14-Decision_Logic_Challenge")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f0cde3ca2564ed8668ae5db43e2008571bc6a3d5")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9c588bc615d67d1ddac3d918214511c37c62b520")]
 [assembly: System.Reflection.AssemblyProductAttribute("14-Decision_Logic_Challenge")]
 [assembly: System.Reflection.AssemblyTitleAttribute("14-Decision_Logic_Challenge")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
